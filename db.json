@@ -1,0 +1,9 @@
+{
+  "customers": [
+	{ "id": 1, "name": "Leanne Graham", "source": "CIM KR", "destination": "Salesforce APAC", "error" : "NA" },
+	{ "id": 2, "name": "Ervin Howell", "source": "Icoco", "destination": "POS", "error" : "NA" },
+	{ "id": 3, "name": "Clementine Bauch", "source": "POS HKMO", "destination": "Salesforce APAC", "error" : "NA" },
+	{ "id": 4, "name": "Patricia Lebsack", "source": "POS HK", "destination": "Salesforce APAC", "error" : "NA" },
+	{ "id": 5, "name": "Chelsey Dietrich", "source": "POS ANZ", "destination": "Salesforce APAC", "error" : "NA" }
+  ]
+}
